@@ -1,0 +1,296 @@
+[
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1529322476000,
+            "changeTime": 1529322476000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1529322476000,
+            "changeTime": 1529322476000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1529322476000,
+            "changeTime": 1529322476000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1529322914000,
+            "changeTime": 1529322914000,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1529323562000,
+            "changeTime": 1529323562000,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9722,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "2c5e25f9889df3e1fee84d6836d2690145d59792"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9722,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "0614067c2c200c6ed41d7cfad9e6b862e73d6dc0"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9770,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "809667210718b2e11d3be0b46815dabf75ac2752"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9770,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "11fbcf28e69634ae04e66f4dc932d9358cd3dfa8"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1529323562000,
+            "changeTime": 1529323562000,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "80bf82090d2a82f9816dc50096bd0d70060bd906"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1529323562000,
+            "changeTime": 1529323562000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1529323562000,
+            "changeTime": 1529323562000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1529323562000,
+            "changeTime": 1529323562000,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1529323562000,
+            "changeTime": 1529323562000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/demo_field__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/demo_field__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "155e290dffebdfa2ca06e3ba5c0053c16f02e4ba"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4475,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "11691e3aff84915b91b8dbf9e50e48e4311aace4"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4479,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "2e1a98c920c8726d06321bd57871b3444c06012c"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4815,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "d9a77019a7cd29f96e6dafd3d641cd8e11f36a06"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17880,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "392f43aad930d514f29ee56e83b341217cd97606"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1529347953000,
+            "changeTime": 1529347953000,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ]
+]
