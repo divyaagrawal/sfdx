@@ -49,6 +49,10 @@
                 <behavior>Edit</behavior>
                 <field>demo_field__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>demo2__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

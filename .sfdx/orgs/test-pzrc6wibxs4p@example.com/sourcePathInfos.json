@@ -32,14 +32,14 @@
     [
         "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1529347953000,
             "changeTime": 1529347953000,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -92,10 +92,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9722,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "2c5e25f9889df3e1fee84d6836d2690145d59792"
+            "size": 9857,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "59645d1607290cbdf55b70a6a048769773722c41"
         }
     ],
     [
@@ -105,10 +105,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9722,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "0614067c2c200c6ed41d7cfad9e6b862e73d6dc0"
+            "size": 9857,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "99732f2d66da44f7bfdf09d8baaf6981ceab264b"
         }
     ],
     [
@@ -118,10 +118,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9770,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "809667210718b2e11d3be0b46815dabf75ac2752"
+            "size": 9905,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "72df9beb0dc53d33135a01e4b6c15b22cbeb9acc"
         }
     ],
     [
@@ -131,10 +131,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9770,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "11fbcf28e69634ae04e66f4dc932d9358cd3dfa8"
+            "size": 9905,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "c64b51748b8f31a3d3912ab547bae2370f1cfc55"
         }
     ],
     [
@@ -157,10 +157,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "80bf82090d2a82f9816dc50096bd0d70060bd906"
+            "size": 170,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "c93fa669444fd3c36b25e3c563ca9f36a38001c2"
         }
     ],
     [
@@ -218,14 +218,14 @@
     [
         "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/demo_field__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/demo_field__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 371,
             "modifiedTime": 1529347953000,
             "changeTime": 1529347953000,
-            "contentHash": "155e290dffebdfa2ca06e3ba5c0053c16f02e4ba"
+            "contentHash": "155e290dffebdfa2ca06e3ba5c0053c16f02e4ba",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -235,10 +235,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4475,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "11691e3aff84915b91b8dbf9e50e48e4311aace4"
+            "size": 4470,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "255bb38e72005b5148d6d163b0bb1ad395a0be38"
         }
     ],
     [
@@ -248,10 +248,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4479,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "2e1a98c920c8726d06321bd57871b3444c06012c"
+            "size": 4474,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "696a6a42972b98ec43103734a9cdc5ba93e09d2c"
         }
     ],
     [
@@ -261,10 +261,10 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4815,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "d9a77019a7cd29f96e6dafd3d641cd8e11f36a06"
+            "size": 4810,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "31644e4f24629f33c2ffcd7dc58280212ba906c1"
         }
     ],
     [
@@ -274,23 +274,36 @@
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 17880,
-            "modifiedTime": 1529347953000,
-            "changeTime": 1529347953000,
-            "contentHash": "392f43aad930d514f29ee56e83b341217cd97606"
+            "size": 17875,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "6605a87ef93f0bb890a006264a0062cdde1c9796"
         }
     ],
     [
         "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1529347953000,
             "changeTime": 1529347953000,
-            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/demo2__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ujjwal/Documents/sfdc/geolocation/force-app/main/default/objects/Account/fields/demo2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1529351391000,
+            "changeTime": 1529351391000,
+            "contentHash": "0246875da2ea3a90fc9bda9052f5f2ab914f39cd"
         }
     ]
 ]
